@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "2e262691-54dc-429c-b994-e4537386bdb3",
+    "name": "Angelina Mann",
+    "phone": "1-674-612-4935 x7665",
+    "email": "Avis66@gmail.com",
+    "job": "Human Operations Technician"
+  },
+  {
+    "id": "aedc2abc-2c40-4478-a8ef-acc018e78bfd",
+    "name": "Jana Hansen III",
+    "phone": "(871) 594-3758",
+    "email": "Akeem.Osinski44@yahoo.com",
+    "job": "Future Security Director"
+  },
+  {
+    "id": "116f840c-6a14-4841-a68d-fd3fff161131",
+    "name": "Mandy Kiehn",
+    "phone": "(992) 564-5799 x09898",
+    "email": "Markus_Metz@yahoo.com",
+    "job": "Principal Division Representative"
+  },
+  {
+    "id": "0bace97f-f260-4f0e-b524-2aca694fb965",
+    "name": "Gina Strosin",
+    "phone": "627-893-2948 x88269",
+    "email": "Skyla.Schmeler@hotmail.com",
+    "job": "Customer Program Orchestrator"
+  }
+]
